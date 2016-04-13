@@ -1,0 +1,12 @@
+C:\Users\amahdavi\Desktop\cracking the coding interview\Chapter1\HaarImage\bin\Debug\HaarImage.exe.config
+C:\Users\amahdavi\Desktop\cracking the coding interview\Chapter1\HaarImage\bin\Debug\HaarImage.exe
+C:\Users\amahdavi\Desktop\cracking the coding interview\Chapter1\HaarImage\bin\Debug\HaarImage.pdb
+C:\Users\amahdavi\Desktop\cracking the coding interview\Chapter1\HaarImage\obj\Debug\HaarImage.csprojResolveAssemblyReference.cache
+C:\Users\amahdavi\Desktop\cracking the coding interview\Chapter1\HaarImage\obj\Debug\HaarImage.Form1.resources
+C:\Users\amahdavi\Desktop\cracking the coding interview\Chapter1\HaarImage\obj\Debug\HaarImage.Properties.Resources.resources
+C:\Users\amahdavi\Desktop\cracking the coding interview\Chapter1\HaarImage\obj\Debug\HaarImage.csproj.GenerateResource.Cache
+C:\Users\amahdavi\Desktop\cracking the coding interview\Chapter1\HaarImage\obj\Debug\HaarImage.exe
+C:\Users\amahdavi\Desktop\cracking the coding interview\Chapter1\HaarImage\obj\Debug\HaarImage.pdb
+C:\Users\Tina\Dropbox\HaarImage\bin\Debug\HaarImage.exe.config
+C:\Users\Tina\Dropbox\HaarImage\obj\Debug\HaarImage.exe
+C:\Users\Tina\Dropbox\HaarImage\obj\Debug\HaarImage.pdb
